@@ -1,5 +1,19 @@
 {
   "name": "OLSKPithGuide",
+  "dependencies": {
+    "// SHARED": null,
+  	"OLSKWording": "olsk/OLSKWording",
+
+    "// ASSETS": null,
+    "OLSKUIAssets": "olsk/OLSKUIAssets",
+
+  	"// LINKS": null,
+    "OLSKRootLink": "olsk/OLSKRootLink",
+
+  	"// STYLE": null,
+  	"normalize.css": "latest",
+  	"OLSKDecor": "olsk/OLSKDecor",
+
     "// I sacrifice myself for the commas of others": null
   }
 }
