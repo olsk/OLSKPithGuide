@@ -1,16 +1,12 @@
 {
   "name": "OLSKPithGuide",
   "dependencies": {
-    "//": "SHARED",
   	"OLSKWording": "olsk/OLSKWording",
 
-    "//": "ASSETS",
     "OLSKUIAssets": "olsk/OLSKUIAssets",
 
-  	"//": "LINKS",
     "OLSKRootLink": "olsk/OLSKRootLink",
-
-  	"//": "STYLE",
+    
   	"normalize.css": "latest",
   	"OLSKDecor": "olsk/OLSKDecor"
   }
